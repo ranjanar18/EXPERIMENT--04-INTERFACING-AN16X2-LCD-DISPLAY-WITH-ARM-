@@ -406,8 +406,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 /*
  * lcd.h
  *
- *  Created on: 10/04/2023
- *      Author: VASANTH KUMAR.CH
+
  */
 
 #ifndef LCD_H_
