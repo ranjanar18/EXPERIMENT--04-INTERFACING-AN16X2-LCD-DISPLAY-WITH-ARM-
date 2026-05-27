@@ -502,7 +502,7 @@ void Lcd_clear(Lcd_HandleTypeDef * lcd);
 ```
 ## lcd.c:
 ```
-// *  Created on: 10/04/2023
+
  //
 
 #include "lcd.h"
